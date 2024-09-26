@@ -6,3 +6,16 @@ This Data Analysis project aims to provide insights into the sales performance o
 ### Data Sources
 https://www.github.com/
 Sales Data: The primary dataset used for this analysis is in the "adidas us sales data.csv" file, containing detailed information about each sale made by the company.
+
+### Tools
+  * SQL - Data Cleaning, Data Analysis
+  * Power Bi - Creating Reports
+
+### Data Cleaning/Preparation
+in the initial data preparation phase , we performed the following tasks:
+
+  * Data Landing and Inspection
+  * Handling Missing Values
+  * Data Cleaning and Formatting
+
+### Business Requirements

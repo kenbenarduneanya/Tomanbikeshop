@@ -5,7 +5,7 @@ This Data Analysis project aims to provide insights into the sales performance o
 
 ### Data Sources
 https://www.github.com/
-Sales Data: The primary dataset used for this analysis is in the "adidas us sales data.csv" file, containing detailed information about each sale made by the company.
+Sales Data: The primary dataset used for this analysis is in the "bike_share_yr_0, bike_share_yr_1, cost_table (1)" file, containing detailed information about each sale made by the company.
 
 ### Tools
   * SQL - Data Cleaning, Data Analysis

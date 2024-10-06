@@ -34,6 +34,30 @@ Use our company colors and ensure the dashboard is easy to navigate.
 ![toman bike shop dashshop 2](https://github.com/user-attachments/assets/6bda2ffb-a18d-4d3a-9b0a-06f55537feb8)
 
 
+ * Hourly Revenue Analysis
+
+![toman bike shop hourly](https://github.com/user-attachments/assets/5397331a-c9d0-4bc1-b69e-3be1daa4ac48)
+
+
+ * Profit and Revenue Trends
+   This Table Displays; Years(i.e. 2021,2022) , Sum of riders, Sum of Revenue, Sum of profit, Average of price
+![toman bike shop dashshop 2](https://github.com/user-attachments/assets/ae05946d-6075-4eb0-85ad-8f73fba2989a)
+
+
+ * Seasonal Revenue
+   the third season is known as Autumn or fall in which the Highest Revenue was recorded. 
+   
+![toman bike shop season revenue side a](https://github.com/user-attachments/assets/7e9a5c3a-ec39-4aac-a56d-4064adc86081)
+
+
+ * Rider Demographics
+This Donut Chart Shows The Rider Demographics i.e sum of riders by rider_type
+This Chart Shows That
+Casual Riders - 18.83%
+Registered - 81.17%
+   
+![toman bike shop rider demography](https://github.com/user-attachments/assets/e99b788f-e6e3-4a10-8d72-eeb1dc97c54a)
+
 
 ### Recommendation
 #### Conservative Increase:
